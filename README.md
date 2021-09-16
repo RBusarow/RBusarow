@@ -29,7 +29,7 @@ Utility for making Dependabot updates with with Gradle's `libs.versions.toml`
 
 ### [ModuleCheck](https://github.com/RBusarow/ModuleCheck)
 
-Fast PSI-based dependency graph validation and tree-shaking for Gradle
+Ultra-fast dependency graph validation and tree-shaking for Gradle
 
 [![latest version](https://img.shields.io/github/v/release/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/releases)
 [![last commit](https://img.shields.io/github/last-commit/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/pulls?q=is%3Apr+is%3Aclosed)
