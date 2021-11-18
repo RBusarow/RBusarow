@@ -18,15 +18,6 @@ Automatic CoroutineDispatcher injection and extensions for kotlinx.coroutines
 [![watchers](https://img.shields.io/github/watchers/rbusarow/dispatch?style=flat-square)](https://github.com/RBusarow/Dispatch/watchers)
 [![stars](https://img.shields.io/github/stars/rbusarow/dispatch?style=flat-square)](https://github.com/RBusarow/Dispatch/stargazers)
 
-### [gradle-dependency-sync](https://github.com/RBusarow/gradle-dependency-sync)
-
-Utility for making Dependabot updates with with Gradle's `libs.versions.toml`
-
-[![latest version](https://img.shields.io/github/v/release/rbusarow/gradle-dependency-sync?style=flat-square)](https://github.com/RBusarow/Gradle-dependency-sync/releases)
-[![last commit](https://img.shields.io/github/last-commit/rbusarow/gradle-dependency-sync?style=flat-square)](https://github.com/RBusarow/Gradle-dependency-sync/pulls?q=is%3Apr+is%3Aclosed)
-[![watchers](https://img.shields.io/github/watchers/rbusarow/gradle-dependency-sync?style=flat-square)](https://github.com/RBusarow/Gradle-dependency-sync/watchers)
-[![stars](https://img.shields.io/github/stars/rbusarow/gradle-dependency-sync?style=flat-square)](https://github.com/RBusarow/Gradle-dependency-sync/stargazers)
-
 ### [ModuleCheck](https://github.com/RBusarow/ModuleCheck)
 
 Ultra-fast dependency graph validation and tree-shaking for Gradle
@@ -35,6 +26,15 @@ Ultra-fast dependency graph validation and tree-shaking for Gradle
 [![last commit](https://img.shields.io/github/last-commit/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/pulls?q=is%3Apr+is%3Aclosed)
 [![watchers](https://img.shields.io/github/watchers/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/watchers)
 [![stars](https://img.shields.io/github/stars/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/stargazers)
+
+### [gradle-dependency-sync](https://github.com/RBusarow/gradle-dependency-sync)
+
+Utility for making Dependabot updates with with Gradle's `libs.versions.toml`
+
+[![latest version](https://img.shields.io/github/v/release/rbusarow/gradle-dependency-sync?style=flat-square)](https://github.com/RBusarow/Gradle-dependency-sync/releases)
+[![last commit](https://img.shields.io/github/last-commit/rbusarow/gradle-dependency-sync?style=flat-square)](https://github.com/RBusarow/Gradle-dependency-sync/pulls?q=is%3Apr+is%3Aclosed)
+[![watchers](https://img.shields.io/github/watchers/rbusarow/gradle-dependency-sync?style=flat-square)](https://github.com/RBusarow/Gradle-dependency-sync/watchers)
+[![stars](https://img.shields.io/github/stars/rbusarow/gradle-dependency-sync?style=flat-square)](https://github.com/RBusarow/Gradle-dependency-sync/stargazers)
 
 <!--
 **RBusarow/RBusarow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
