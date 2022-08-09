@@ -1,5 +1,14 @@
 ## My active projects
 
+### [ModuleCheck](https://github.com/RBusarow/ModuleCheck)
+
+Ultra-fast dependency graph validation and tree-shaking for Gradle
+
+[![latest version](https://img.shields.io/github/v/release/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/releases)
+[![last commit](https://img.shields.io/github/last-commit/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/pulls?q=is%3Apr+is%3Aclosed)
+[![watchers](https://img.shields.io/github/watchers/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/watchers)
+[![stars](https://img.shields.io/github/stars/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/stargazers)
+
 ### [Tangle](https://github.com/RBusarow/Tangle)
 
 Android injection using the Anvil compiler plugin
@@ -18,14 +27,14 @@ Automatic CoroutineDispatcher injection and extensions for kotlinx.coroutines
 [![watchers](https://img.shields.io/github/watchers/rbusarow/dispatch?style=flat-square)](https://github.com/RBusarow/Dispatch/watchers)
 [![stars](https://img.shields.io/github/stars/rbusarow/dispatch?style=flat-square)](https://github.com/RBusarow/Dispatch/stargazers)
 
-### [ModuleCheck](https://github.com/RBusarow/ModuleCheck)
+### [Hermit](https://github.com/RBusarow/Hermit)
 
-Ultra-fast dependency graph validation and tree-shaking for Gradle
+Lazy Kotlin delegates which automatically reset with a test lifecycle
 
-[![latest version](https://img.shields.io/github/v/release/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/releases)
-[![last commit](https://img.shields.io/github/last-commit/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/pulls?q=is%3Apr+is%3Aclosed)
-[![watchers](https://img.shields.io/github/watchers/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/watchers)
-[![stars](https://img.shields.io/github/stars/rbusarow/moduleCheck?style=flat-square)](https://github.com/RBusarow/ModuleCheck/stargazers)
+[![latest version](https://img.shields.io/github/v/release/rbusarow/hermit?style=flat-square)](https://github.com/RBusarow/Hermit/releases)
+[![last commit](https://img.shields.io/github/last-commit/rbusarow/hermit?style=flat-square)](https://github.com/RBusarow/Hermit/pulls?q=is%3Apr+is%3Aclosed)
+[![watchers](https://img.shields.io/github/watchers/rbusarow/hermit?style=flat-square)](https://github.com/RBusarow/Hermit/watchers)
+[![stars](https://img.shields.io/github/stars/rbusarow/hermit?style=flat-square)](https://github.com/RBusarow/Hermit/stargazers)
 
 ### [gradle-dependency-sync](https://github.com/RBusarow/gradle-dependency-sync)
 
